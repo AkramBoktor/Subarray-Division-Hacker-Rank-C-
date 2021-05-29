@@ -5,8 +5,6 @@ VisualStudioVersion = 16.0.30711.63
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Subarray Division", "Subarray Division.csproj", "{2CE21507-3E46-4648-B3DD-A16473749B31}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Divisible Sum Pairs", "..\Divisible Sum Pairs\Divisible Sum Pairs.csproj", "{37F62208-A784-4281-8C3C-F9A6A39CDDB4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{2CE21507-3E46-4648-B3DD-A16473749B31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2CE21507-3E46-4648-B3DD-A16473749B31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2CE21507-3E46-4648-B3DD-A16473749B31}.Release|Any CPU.Build.0 = Release|Any CPU
-		{37F62208-A784-4281-8C3C-F9A6A39CDDB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{37F62208-A784-4281-8C3C-F9A6A39CDDB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{37F62208-A784-4281-8C3C-F9A6A39CDDB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{37F62208-A784-4281-8C3C-F9A6A39CDDB4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
