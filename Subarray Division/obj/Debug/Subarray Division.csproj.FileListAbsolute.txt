@@ -1,0 +1,7 @@
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\bin\Debug\Subarray Division.exe.config
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\bin\Debug\Subarray Division.exe
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\bin\Debug\Subarray Division.pdb
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\obj\Debug\Subarray Division.csprojAssemblyReference.cache
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\obj\Debug\Subarray Division.csproj.CoreCompileInputs.cache
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\obj\Debug\Subarray Division.exe
+C:\Users\Akram\Desktop\HackerRank\Day5\Subarray Division\obj\Debug\Subarray Division.pdb
